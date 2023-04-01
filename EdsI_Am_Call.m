@@ -1,5 +1,3 @@
-% Names of group members: Xavier Chu
-
 function FD_c = EdsI_Am_Call(S0, X, r, T, sigma, q, N, I)
 % set up grid parameters
 Smax = 3*X;
