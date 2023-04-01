@@ -1,5 +1,3 @@
-% Names of group members: Xavier Chu
-
 function [FD_c, FD_err] = EdsI_Eu_Call(S0, X, r, T, sigma, q, N, I)
 % set up grid parameters
 Smax = 3*X;
