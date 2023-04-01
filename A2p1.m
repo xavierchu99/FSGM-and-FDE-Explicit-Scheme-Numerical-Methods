@@ -1,5 +1,3 @@
-% Names of group members: Xavier Chu
-
 %% (ii)
 S0 = 100; X = 100; r = 0.1; T = 0.25; sigma = 0.4; q = 0; 
 N = [50 100 200 400];
