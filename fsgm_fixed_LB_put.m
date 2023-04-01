@@ -1,5 +1,3 @@
-% Names of group members: Xavier Chu
-
 function OptVal=fsgm_fixed_LB_put(S0,X,r,T,sigma,q,N,r_min)
  % step 1:set up tree parameters
 dt = T/N; dx = sigma*sqrt(dt);
